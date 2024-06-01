@@ -7,7 +7,7 @@
 - ⚡ Open to work
 
 ### Programming languages and Software
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,js,ts,py,tensorflow,html,css,angular,visualstudio,vscode,androidstudio,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,go,ts,py,tensorflow,html,css,angular,visualstudio,vscode,androidstudio,git,github)](https://skillicons.dev)
 
 #### Ommmm..... snake?
 
